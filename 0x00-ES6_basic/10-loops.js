@@ -5,4 +5,4 @@ export default function appendToEachArrayValue(array, appendString) {
   }
 
   return newArray;
-}10-loops.js
+}
